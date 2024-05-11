@@ -1,7 +1,7 @@
 <?php
-namespace inc;
+namespace layout;
 Class Mahasiswa {
     function __construct(){
-         echo "Saya inc/Mahasiswa.php";
+         echo "Saya layout/Mahasiswa.php";
     }
 }
